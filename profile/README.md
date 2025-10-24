@@ -6,7 +6,7 @@ We're opinionated about the technologies we choose and focus on building product
 
 ## Current Focus
 
-**[Evento](https://github.com/sevenlabs/evento-client)** - Our flagship product combining Bitcoin payments with seamless event management.
+**[Evento](https://github.com/sevenlabsxyz/evento-client)** - Our flagship product combining Bitcoin payments with seamless event management.
 
 ---
 
