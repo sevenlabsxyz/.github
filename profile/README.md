@@ -1,6 +1,7 @@
 # Seven Labs
 
 **Tech Venture Studio**
+
 We believe in pushing open source freedom technologies and marrying them with beautiful user experiences. We're opinionated about the technologies we choose and focus on **building products that matter**.
 
 ## Current Focus
