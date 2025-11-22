@@ -5,4 +5,6 @@ We believe in pushing open source freedom technologies and marrying them with be
 
 ## Current Focus
 
-**[Evento](https://github.com/sevenlabsxyz/evento-client)** - Our flagship product combining Bitcoin payments with seamless event management.
+**[Evento](https://evento.so)** - Our flagship product combining Bitcoin payments and ticketing with seamless event management.
+**[Hack4Freedom](https://hack4freedom.com)** - Hackathon that trains female developers in Africa to build next-gen open-source freedom software using Bitcoin.
+.
