@@ -10,7 +10,7 @@ We like freedom technology, open source, Bitcoin, good design, human-scale compa
 ## Things we make
 
 - **[The Original](https://theoriginal.art)** — wearable art, independent clothing, small runs, no mass-market vibes.
-- **[Evento](https://evento.so)** — open-source events, tickets, and peer-to-peer Bitcoin payments. No middlemen, no weird platform tax energy.
+- **[Evento](https://evento.so)** — events, tickets, and peer-to-peer Bitcoin payments. No middlemen, no weird platform tax energy.
 - **[Hack4Freedom](https://hack4freedom.com)** — hackathons and mentorship across the Global South, helping builders learn freedom tech by building it.
 - **[Lightning Address](https://lightningaddress.com)** — an open protocol we created for human-readable Lightning payments. Like email, but for your Bitcoin.
 - **[NoBadNews](https://nobadnews.app)** — seven genuinely good things that happened yesterday. Coming soon.
